@@ -12,7 +12,7 @@ In your arduino IDE install the following libraries:
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.svg)
+![Circuit Diagram](circuit.png)
 
 
 ## PCB Layout
