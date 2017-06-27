@@ -10,9 +10,10 @@ In your arduino IDE install the following libraries:
     * Adafruit_GFX.h
     * Adafruit_PCD8544.h
 
-## Circuit Diagramm
+## Circuit Diagram
 
-TBD A Fritzing file will be added later
+![Circuit Diagram](circuit.svg)
+
 
 ## PCB Layout
 
